@@ -9,4 +9,4 @@ def secure_token
     token
   end
 end
-LauncherSelfies::Application.config.secret_key_base = secure_token
+LauncherSleepies::Application.config.secret_key_base = secure_token
