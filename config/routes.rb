@@ -1,4 +1,4 @@
-LauncherSelfies::Application.routes.draw do
+LauncherSleepies::Application.routes.draw do
   root 'tweet#index'
   get "about", to:"tweet#about", as: "tweet_about"
   get "inspiration", to:"tweet#inspiration", as: "tweet_inspiration"
