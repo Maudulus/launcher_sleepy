@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Launcher_Selfies::Application.load_tasks
+LauncherSleepies::Application.load_tasks
