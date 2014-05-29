@@ -1,8 +1,8 @@
-== Launcher Sleepy, All the tweets with #launcher_sleepies in one place.
+== Launcher Sleepy, All the tweets with #launcher_sleepy in one place. http://launchersleepy.heroku.com
 
 LauncherSleepy allows Launch Academy students to post photos of their classmates who have fallen asleep from exhaustion!!!
 
-Simply log on to your twitter account, post the photo and use #launcher_sleepies in order to have it post to the launcher sleepy website, http://launchersleepy.heroku.com .
+Simply log on to your twitter account, post the photo and use #launcher_sleepy in order to have it post to the launcher sleepy website, http://launchersleepy.heroku.com .
 
 
 
